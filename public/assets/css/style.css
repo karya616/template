@@ -1,0 +1,16 @@
+.table {
+  width: 100% !important;
+}
+
+input.error {
+  border: 1px solid #dc3545;
+}
+
+.error {
+  color: #dc3545;
+}
+
+.borderless th,
+.borderless td {
+  border: none;
+}
